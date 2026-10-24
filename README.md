@@ -1,7 +1,7 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-1a1a1a?style=flat-square" alt="MIT License"></a>
   <a href="ROADMAP.md"><img src="https://img.shields.io/badge/tracks-15-3553ff?style=flat-square" alt="15 tracks"></a>
-  <a href="ROADMAP.md"><img src="https://img.shields.io/badge/modules-64_mapped-3553ff?style=flat-square" alt="64 modules mapped"></a>
+  <a href="ROADMAP.md"><img src="https://img.shields.io/badge/modules-66_mapped-3553ff?style=flat-square" alt="66 modules mapped"></a>
   <a href="https://github.com/Anil-matcha/ai-creator-academy/stargazers"><img src="https://img.shields.io/github/stars/Anil-matcha/ai-creator-academy?style=flat-square&color=3553ff" alt="GitHub stars"></a>
 </p>
 
@@ -67,7 +67,7 @@ Paid communities teaching this (Skool/Whop-style, $47–$97/mo) already cluster 
 
 ### Start here
 
-[**Track 1: AI Video Ads & UGC**](tracks/01-ai-video-ads-ugc/) is the only fully-written track today — it's the proof-of-format pilot every other track will follow.
+[**Track 1: AI Video Ads & UGC**](tracks/01-ai-video-ads-ugc/) was the proof-of-format pilot. The current roadmap marks all 15 tracks live, with 66 numbered module files published across them.
 
 <details>
 <summary><b>Track 1 — all 5 modules (click to expand)</b></summary>
@@ -168,7 +168,7 @@ No — any generative media provider works. muapi.ai is used as the reference im
 Both are covered. Every module's "Compare Tools" section shows the API path alongside a local/self-hosted path (e.g. ComfyUI) where one realistically exists, with an honest cost/speed/quality tradeoff.
 
 **Why isn't [track/niche] covered yet?**
-Only Track 1 is fully written so far — it's the pilot proving the format before the rest get written. See [ROADMAP.md](ROADMAP.md) for what's planned, and [CONTRIBUTING.md](CONTRIBUTING.md) if you want to help write one.
+The current curriculum includes the 15 tracks and 66 numbered modules listed above and in [ROADMAP.md](ROADMAP.md). Track 1 was the original proof-of-format pilot. For a niche not yet covered, see [CONTRIBUTING.md](CONTRIBUTING.md) to propose a track.
 
 ## Contributing
 
